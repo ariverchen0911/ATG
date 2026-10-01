@@ -1,0 +1,8 @@
+poc-server.pid
+__pycache__/
+*.log
+ref/
+tmp/
+source_profile.json
+source_manifest.json
+delivery_checks.json

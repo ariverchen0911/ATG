@@ -1,0 +1,342 @@
+{
+  "version": "1.0.1",
+  "tested_at": "2026-10-01 Asia/Taipei",
+  "engine": "Chrome headless via Playwright",
+  "results": [
+    {
+      "name": "未登入直接存取工作台會轉回登入",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "錯誤密碼拒絕登入",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "指定帳密登入成功",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "初始候選24件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "總覽桌面無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "房屋稅篩選12件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "稅種與行政區複合篩選2件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "空結果提示",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "117模擬分數明確標示",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "排序排除缺識別不評分案件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "未定回饋保留資料待補",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "確認異常存覆核標籤與版本",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "確認無異常可独立保存",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "重新整理保留回饋",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "批次選取派送2件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "回饋JSON涵蓋版本與三種結果",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CSV僅匯出查詢結果12件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "案件与圖台選取連動",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "TAX圖層可以隱藏",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "稅種透明度更新",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "年度切換更新標題",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "點位選取更新案件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "縮放操作更新SVG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "圖台桌面無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "地籍沿革示意對話框",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "公產釐正留本機稽核",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "示範CSV匯入2件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "重複CSV整批拒收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "部分格式錯誤整批不寫入",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "助手固定意圖查詢有來源提示",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "助手未知問題不捏造回答",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "模型未訓練狀態清楚",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "稽核匯出包含覆核與派案",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "重置恢復24件初始資料",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 dashboard 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 map 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 cases 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 projects 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 property 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 data 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 assistant 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 governance 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "桌面頁面 versions 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 dashboard 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 map 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 cases 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 projects 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 property 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 data 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 assistant 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 governance 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "手機390px頁面 versions 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "30分鐘過期重新登入",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "登出後無法直接回工作台",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "文件可獨立閱覽 AI模型建構設計.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "文件桌面 AI模型建構設計.html 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "文件手機 AI模型建構設計.html 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "文件可獨立閱覽 版本與交付說明.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "文件桌面 版本與交付說明.html 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "文件手機 版本與交付說明.html 無水平溢出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Chrome直接file方式登入",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "無JavaScript執行錯誤",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "新匯入案件無繼承面積或分類理由",
+      "passed": true
+    },
+    {
+      "name": "新匯入地價案件提示來源待補",
+      "passed": true
+    },
+    {
+      "name": "登出後瀏覽器返回仍要求登入",
+      "passed": true
+    },
+    {
+      "name": "驗證紀錄1512px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "驗證紀錄390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "補充驗證無JS錯誤",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

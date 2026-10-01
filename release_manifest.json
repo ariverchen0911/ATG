@@ -1,0 +1,113 @@
+{
+  "version": "1.0.1",
+  "date": "2026-10-01",
+  "edition": "GitHub public POC, synthetic data only",
+  "files": [
+    {
+      "name": "AI模型建構設計.html",
+      "version": "1.0.1",
+      "bytes": 5404,
+      "sha256": "f14a5e9679b062d8a61ef2955f49787c265ac05dd5620fc82f0ad9bf188c4bfa"
+    },
+    {
+      "name": "app.html",
+      "version": "1.0.1",
+      "bytes": 2099,
+      "sha256": "67d16987998257c70899245ea4129718d36d012155f09c44d3d6568efdb891ef"
+    },
+    {
+      "name": "app.js",
+      "version": "1.0.1",
+      "bytes": 35800,
+      "sha256": "57b2c91e2253f7b9e05d586e5e8eec4dd4013cec8eeaeb85868df407b560d734"
+    },
+    {
+      "name": "auth.js",
+      "version": "1.0.1",
+      "bytes": 1543,
+      "sha256": "8d61077715161bda0178a1028a5170fa543efb9e8126e884d694a4138d6ec556"
+    },
+    {
+      "name": "CHANGELOG.md",
+      "version": "1.0.1",
+      "bytes": 565,
+      "sha256": "2ecf329e893a9a886bdf7de555fdff70553d28c07bb1204efcbf92dd62a07077"
+    },
+    {
+      "name": "data.js",
+      "version": "1.0.1",
+      "bytes": 19221,
+      "sha256": "7af8293eea98538ea8762a02531cac9af29da10d4e2c2a61cccb5189ad2c8b18"
+    },
+    {
+      "name": "index.html",
+      "version": "1.0.1",
+      "bytes": 3156,
+      "sha256": "6537b2b7f666d820ee517a419ca9312ca9057044513441f9e41058c858a20d56"
+    },
+    {
+      "name": "login.js",
+      "version": "1.0.1",
+      "bytes": 848,
+      "sha256": "3972ef8ba0e234fd61a02837a7a9e5ec90549138011dc76cea47f285cd236cc4"
+    },
+    {
+      "name": "public_qa.json",
+      "version": "1.0.1",
+      "bytes": 2741,
+      "sha256": "673b491cbd53abc6db2cc5172ac2ba350ee9e59aeb4134e4ce2b6e66a31c7f30"
+    },
+    {
+      "name": "qa_results.json",
+      "version": "1.0.1",
+      "bytes": 7524,
+      "sha256": "eacd91be48469d6b4fca6121e5dd84a0678378133c96e2e622a6ba5ce307980f"
+    },
+    {
+      "name": "README.md",
+      "version": "1.0.1",
+      "bytes": 989,
+      "sha256": "bcf1bdd1e99215b873f194e8f4be2164ce3d492e339c94ea41085dbee618f88a"
+    },
+    {
+      "name": "styles.css",
+      "version": "1.0.1",
+      "bytes": 11712,
+      "sha256": "eccb5a7c401573506824393a3eae07abbe5bf04ff9a12ca841a8cded74f49542"
+    },
+    {
+      "name": "啟動POC.ps1",
+      "version": "1.0.1",
+      "bytes": 1273,
+      "sha256": "58eeee1a70fdf34e45b5ed668c3419291668aa9370e50b4f0ed4d22954d25144"
+    },
+    {
+      "name": "版本與交付說明.html",
+      "version": "1.0.1",
+      "bytes": 1582,
+      "sha256": "0fda58532266b903a40dd4d5651c92080a2ca4406951fbe4c7d1c0aa50c3478e"
+    },
+    {
+      "name": "示範案件匯入.csv",
+      "version": "1.0.1",
+      "bytes": 176,
+      "sha256": "b603f65971c827262bfd2c0551dbfc7fc0e2740a94846199a20279dfcd2db62e"
+    },
+    {
+      "name": "驗證紀錄.html",
+      "version": "1.0.1",
+      "bytes": 1382,
+      "sha256": "508cf5b71f8528763ec6ad7198a8996c5fe98dea4b6bbcb0a8ec40e2fa90552d"
+    }
+  ],
+  "verification": {
+    "public_browser_checks": 29,
+    "passed": 29,
+    "javascript_errors": 0
+  },
+  "exclusions": [
+    "Original agency source files",
+    "Source metadata, names, hashes and actual spreadsheet schema",
+    "Original V1.0.0 ZIP and private analysis"
+  ]
+}

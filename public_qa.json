@@ -1,0 +1,123 @@
+{
+  "version": "1.0.1",
+  "date": "2026-10-01",
+  "results": [
+    {
+      "name": "公開版指定帳密可登入",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px dashboard無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px map無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px cases無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px projects無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px property無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px data無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px assistant無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px governance無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版1512px versions無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px dashboard無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px map無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px cases無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px projects無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px property無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px data無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px assistant無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px governance無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版390px versions無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開資料頁只有示範範圍",
+      "passed": true
+    },
+    {
+      "name": "公開版CSV仍可匯入",
+      "passed": true
+    },
+    {
+      "name": "公開版登出正常",
+      "passed": true
+    },
+    {
+      "name": "公開文件AI模型建構設計.html 1512px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開文件AI模型建構設計.html 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開文件版本與交付說明.html 1512px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開文件版本與交付說明.html 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開文件驗證紀錄.html 1512px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開文件驗證紀錄.html 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公開版无JavaScript錯誤",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
