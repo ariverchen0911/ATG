@@ -1,4 +1,4 @@
-/* ATG 116 POC V1.0.1 | 2026-10-01 | See CHANGELOG.md */
+/* ATG 116 POC V1.1.0 | 2026-10-04 | See CHANGELOG.md */
 
 document.getElementById('showPassword').addEventListener('change',e=>document.getElementById('password').type=e.target.checked?'text':'password');
 document.getElementById('loginForm').addEventListener('submit',async e=>{

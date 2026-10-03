@@ -1,113 +1,105 @@
 {
-  "version": "1.0.1",
-  "date": "2026-10-01",
-  "edition": "GitHub public POC, synthetic data only",
+  "poc_version": "1.1.0",
+  "date": "2026-10-04",
+  "design_baseline": "V1.3",
+  "synthetic_only": true,
+  "browser_checks_passed": 100,
+  "javascript_errors": 0,
   "files": [
     {
-      "name": "AI模型建構設計.html",
-      "version": "1.0.1",
-      "bytes": 5404,
-      "sha256": "f14a5e9679b062d8a61ef2955f49787c265ac05dd5620fc82f0ad9bf188c4bfa"
+      "path": ".gitignore",
+      "bytes": 106,
+      "sha256": "54a346eb10494a1cbec2d41ac5fe7ee0924513d3c79633f067698af4d87d1874"
     },
     {
-      "name": "app.html",
-      "version": "1.0.1",
-      "bytes": 2099,
-      "sha256": "67d16987998257c70899245ea4129718d36d012155f09c44d3d6568efdb891ef"
+      "path": "AI模型建構設計.html",
+      "bytes": 11217,
+      "sha256": "bc8c16c3785f6c05b0be1cd073330376301ec2c624a27c49a599103269a3a974"
     },
     {
-      "name": "app.js",
-      "version": "1.0.1",
-      "bytes": 35800,
-      "sha256": "57b2c91e2253f7b9e05d586e5e8eec4dd4013cec8eeaeb85868df407b560d734"
+      "path": "app.html",
+      "bytes": 2363,
+      "sha256": "fa0e61663c9cc84a18795cbc84872d44efca4e892b4e3279e52d8f2b5b0e8322"
     },
     {
-      "name": "auth.js",
-      "version": "1.0.1",
-      "bytes": 1543,
-      "sha256": "8d61077715161bda0178a1028a5170fa543efb9e8126e884d694a4138d6ec556"
+      "path": "app.js",
+      "bytes": 31202,
+      "sha256": "5073bc554751d2fcf87c2cfd6a2ec702b739eac491fe8a046985dfb72c8e227d"
     },
     {
-      "name": "CHANGELOG.md",
-      "version": "1.0.1",
-      "bytes": 565,
-      "sha256": "2ecf329e893a9a886bdf7de555fdff70553d28c07bb1204efcbf92dd62a07077"
+      "path": "auth.js",
+      "bytes": 1523,
+      "sha256": "cd02db752469d53bb01cb94bced45f995fe5a6ff043078ffaece74d5eb4394dd"
     },
     {
-      "name": "data.js",
-      "version": "1.0.1",
-      "bytes": 19221,
-      "sha256": "7af8293eea98538ea8762a02531cac9af29da10d4e2c2a61cccb5189ad2c8b18"
+      "path": "CHANGELOG.md",
+      "bytes": 1300,
+      "sha256": "1651715f4501540621591364ea394b61c9362d5b2149f34ac39c57565d46e3e9"
     },
     {
-      "name": "index.html",
-      "version": "1.0.1",
+      "path": "data.js",
+      "bytes": 19218,
+      "sha256": "d81d36c20495d55a2ed41086466af0e03715bc6bac70cf5ecf9cb87c31e4ae5d"
+    },
+    {
+      "path": "index.html",
       "bytes": 3156,
-      "sha256": "6537b2b7f666d820ee517a419ca9312ca9057044513441f9e41058c858a20d56"
+      "sha256": "b4c780691d5e315330d2df5676a8c65c4c958989b568cc2a3cb6242c5af20db1"
     },
     {
-      "name": "login.js",
-      "version": "1.0.1",
-      "bytes": 848,
-      "sha256": "3972ef8ba0e234fd61a02837a7a9e5ec90549138011dc76cea47f285cd236cc4"
+      "path": "lifecycle.js",
+      "bytes": 35840,
+      "sha256": "991ac3c405c45272e763da3684cf4b05eb0c72919524d17d320062ac0cdb288f"
     },
     {
-      "name": "public_qa.json",
-      "version": "1.0.1",
-      "bytes": 2741,
-      "sha256": "673b491cbd53abc6db2cc5172ac2ba350ee9e59aeb4134e4ce2b6e66a31c7f30"
+      "path": "login.js",
+      "bytes": 837,
+      "sha256": "b05439aee5e35ecf7e0dd053d0b02a9dd8aa577b5214e6ea6e2007774998d057"
     },
     {
-      "name": "qa_results.json",
-      "version": "1.0.1",
-      "bytes": 7524,
-      "sha256": "eacd91be48469d6b4fca6121e5dd84a0678378133c96e2e622a6ba5ce307980f"
+      "path": "public_qa.json",
+      "bytes": 8804,
+      "sha256": "9945fb841873bcfbf4774304a729abb3401391e957556bb36d9d91c4a86be6e5"
     },
     {
-      "name": "README.md",
-      "version": "1.0.1",
-      "bytes": 989,
-      "sha256": "bcf1bdd1e99215b873f194e8f4be2164ce3d492e339c94ea41085dbee618f88a"
+      "path": "README.md",
+      "bytes": 1436,
+      "sha256": "24ae728163dcc06f82acd569f995c1cf40aa365eba8090ce728ff7e1b22e765e"
     },
     {
-      "name": "styles.css",
-      "version": "1.0.1",
-      "bytes": 11712,
-      "sha256": "eccb5a7c401573506824393a3eae07abbe5bf04ff9a12ca841a8cded74f49542"
+      "path": "styles.css",
+      "bytes": 12797,
+      "sha256": "8d221a71f3d47f28567ac1d47cfed315c7bb2728054c80ec0365b7913716391f"
     },
     {
-      "name": "啟動POC.ps1",
-      "version": "1.0.1",
-      "bytes": 1273,
-      "sha256": "58eeee1a70fdf34e45b5ed668c3419291668aa9370e50b4f0ed4d22954d25144"
+      "path": "啟動POC.ps1",
+      "bytes": 1252,
+      "sha256": "7d4f141e51c156b631ed6988a687a932713b9ea22e7e2ecab66cb5a039611857"
     },
     {
-      "name": "版本與交付說明.html",
-      "version": "1.0.1",
-      "bytes": 1582,
-      "sha256": "0fda58532266b903a40dd4d5651c92080a2ca4406951fbe4c7d1c0aa50c3478e"
+      "path": "版本與交付說明.html",
+      "bytes": 4292,
+      "sha256": "001d2f683786ccb2d81e89a7e68d14a8a09b3ec22a067f3c54c8d92bd7476766"
     },
     {
-      "name": "示範案件匯入.csv",
-      "version": "1.0.1",
-      "bytes": 176,
-      "sha256": "b603f65971c827262bfd2c0551dbfc7fc0e2740a94846199a20279dfcd2db62e"
+      "path": "示範案件匯入.csv",
+      "bytes": 173,
+      "sha256": "407a0c6c3f84a619b778babac4ed050f01668d524072ea42a98ba5946f0c268a"
     },
     {
-      "name": "驗證紀錄.html",
-      "version": "1.0.1",
-      "bytes": 1382,
-      "sha256": "508cf5b71f8528763ec6ad7198a8996c5fe98dea4b6bbcb0a8ec40e2fa90552d"
+      "path": "需求對照.json",
+      "bytes": 1845,
+      "sha256": "201f7bdb2ee9f5e081e79d81310e7d2290a40fc6e8cce380613ad1b5fc3a3746"
+    },
+    {
+      "path": "驗證紀錄.html",
+      "bytes": 9111,
+      "sha256": "d6aac2b779ae8a2e4803be01b3951b0d8979bc374bfcda45631f8820a7ff8447"
     }
   ],
-  "verification": {
-    "public_browser_checks": 29,
-    "passed": 29,
-    "javascript_errors": 0
-  },
   "exclusions": [
-    "Original agency source files",
-    "Source metadata, names, hashes and actual spreadsheet schema",
-    "Original V1.0.0 ZIP and private analysis"
+    "manifest self hash",
+    "ZIP self hash",
+    "private source and analysis metadata"
   ]
 }

@@ -1,4 +1,4 @@
-/* ATG 116 POC V1.0.1 | 2026-10-01 | See CHANGELOG.md */
+/* ATG 116 POC V1.1.0 | 2026-10-04 | See CHANGELOG.md */
 
 const ATGAuth=(()=>{
  const config={user:'geoinfor',salt:'f007304291a99be540b696a95bf7a608',hash:'29046c050b91dfae7e76f8801d10e96f3d9a631a93633e7f873a7f7c2bbc0b78',iterations:600000};

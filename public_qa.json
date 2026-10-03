@@ -1,121 +1,406 @@
 {
-  "version": "1.0.1",
-  "date": "2026-10-01",
+  "version": "1.1.0",
+  "date": "2026-10-04",
+  "environment": "Chrome headless / local HTTP / synthetic fixtures",
   "results": [
     {
-      "name": "公開版指定帳密可登入",
+      "name": "未登入直接開啟工作台轉回登入",
       "passed": true
     },
     {
-      "name": "公開版1512px dashboard無水平溢出",
+      "name": "錯誤密碼不能登入",
       "passed": true
     },
     {
-      "name": "公開版1512px map無水平溢出",
+      "name": "指定帳密仍可登入",
       "passed": true
     },
     {
-      "name": "公開版1512px cases無水平溢出",
+      "name": "1512px dashboard無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版1512px projects無水平溢出",
+      "name": "1512px map無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版1512px property無水平溢出",
+      "name": "1512px cases無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版1512px data無水平溢出",
+      "name": "1512px projects無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版1512px assistant無水平溢出",
+      "name": "1512px jobs無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版1512px governance無水平溢出",
+      "name": "1512px labeling無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版1512px versions無水平溢出",
+      "name": "1512px data無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px dashboard無水平溢出",
+      "name": "1512px assistant無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px map無水平溢出",
+      "name": "1512px release無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px cases無水平溢出",
+      "name": "1512px risks無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px projects無水平溢出",
+      "name": "1512px property無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px property無水平溢出",
+      "name": "1512px governance無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px data無水平溢出",
+      "name": "1512px versions無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px assistant無水平溢出",
+      "name": "390px dashboard無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px governance無水平溢出",
+      "name": "390px map無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版390px versions無水平溢出",
+      "name": "390px cases無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開資料頁只有示範範圍",
+      "name": "390px projects無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版CSV仍可匯入",
+      "name": "390px jobs無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版登出正常",
+      "name": "390px labeling無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開文件AI模型建構設計.html 1512px無水平溢出",
+      "name": "390px data無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開文件AI模型建構設計.html 390px無水平溢出",
+      "name": "390px assistant無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開文件版本與交付說明.html 1512px無水平溢出",
+      "name": "390px release無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開文件版本與交付說明.html 390px無水平溢出",
+      "name": "390px risks無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開文件驗證紀錄.html 1512px無水平溢出",
+      "name": "390px property無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開文件驗證紀錄.html 390px無水平溢出",
+      "name": "390px governance無頁面水平溢出",
       "passed": true
     },
     {
-      "name": "公開版无JavaScript錯誤",
+      "name": "390px versions無頁面水平溢出",
+      "passed": true
+    },
+    {
+      "name": "公產操作已改為範圍排除",
+      "passed": true
+    },
+    {
+      "name": "受理建立快照及outbox",
+      "passed": true
+    },
+    {
+      "name": "來源列及合格任務可回算",
+      "passed": true
+    },
+    {
+      "name": "相同冪等鍵不重建任務",
+      "passed": true
+    },
+    {
+      "name": "worker領取與attempt保存",
+      "passed": true
+    },
+    {
+      "name": "重啟釋放租約且不增加完成數",
+      "passed": true
+    },
+    {
+      "name": "503留待重試，不轉正常",
+      "passed": true
+    },
+    {
+      "name": "重新載入保留待重試及checkpoint",
+      "passed": true
+    },
+    {
+      "name": "恢復後續作，僅保存一筆結果",
+      "passed": true
+    },
+    {
+      "name": "舊revision隔離且建立最新補跑",
+      "passed": true
+    },
+    {
+      "name": "過期預測不能更新現行",
+      "passed": true
+    },
+    {
+      "name": "資料不足回null並轉待查",
+      "passed": true
+    },
+    {
+      "name": "不適用與未變更略過分開計數",
+      "passed": true
+    },
+    {
+      "name": "所有合格任務達終態，隔離列仍顯示錯誤完成",
+      "passed": true
+    },
+    {
+      "name": "取消保留已成功結果並取消未完成項",
+      "passed": true
+    },
+    {
+      "name": "同案可有多態樣，機率為null",
+      "passed": true
+    },
+    {
+      "name": "盲核可隱藏規則提示",
+      "passed": true
+    },
+    {
+      "name": "承辦不能自行核定",
+      "passed": true
+    },
+    {
+      "name": "未核定正負標籤不可進快照",
+      "passed": true
+    },
+    {
+      "name": "核定正常態樣可進凍結快照",
+      "passed": true
+    },
+    {
+      "name": "單態樣核定不將整案標完成",
+      "passed": true
+    },
+    {
+      "name": "同案未覆核態樣仍未知",
+      "passed": true
+    },
+    {
+      "name": "修正新增supersedes且舊標籤保留",
+      "passed": true
+    },
+    {
+      "name": "最新爭議標籤排除，不沿用舊正常",
+      "passed": true
+    },
+    {
+      "name": "凍結快照不隨標籤修正改寫",
+      "passed": true
+    },
+    {
+      "name": "多態樣真值分開核定",
+      "passed": true
+    },
+    {
+      "name": "態樣標籤不連到其他態樣預測",
+      "passed": true
+    },
+    {
+      "name": "未核准候選禁止發布",
+      "passed": true
+    },
+    {
+      "name": "風險能力未完成不能勾選發布證據",
+      "passed": true
+    },
+    {
+      "name": "風險沒有證據不能結案",
+      "passed": true
+    },
+    {
+      "name": "風險與能力需實作證據及代理",
+      "passed": true
+    },
+    {
+      "name": "影子不切champion",
+      "passed": true
+    },
+    {
+      "name": "Q驗證後不能自行核准",
+      "passed": true
+    },
+    {
+      "name": "B核准後仍需O發布",
+      "passed": true
+    },
+    {
+      "name": "核准相容候選可受控切換",
+      "passed": true
+    },
+    {
+      "name": "既有任務release保持固定",
+      "passed": true
+    },
+    {
+      "name": "舊release晚完成不覆寫現行",
+      "passed": true
+    },
+    {
+      "name": "相容回復保留發布歷史",
+      "passed": true
+    },
+    {
+      "name": "不相容schema阻擋影子與發布",
+      "passed": true
+    },
+    {
+      "name": "原有批次派案仍可操作",
+      "passed": true
+    },
+    {
+      "name": "原圖台圖層切換正常",
+      "passed": true
+    },
+    {
+      "name": "原有智慧查詢仍正常",
+      "passed": true
+    },
+    {
+      "name": "CSV新增案件仍維持待補",
+      "passed": true
+    },
+    {
+      "name": "重複CSV整批拒收，案件數不增",
+      "passed": true
+    },
+    {
+      "name": "有紀錄 jobs 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "有紀錄 labeling 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "有紀錄 release 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "有紀錄 risks 390px無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "匯出明確標示爭議不適合訓練",
+      "passed": true
+    },
+    {
+      "name": "重置同時清空流程與還原24案例",
+      "passed": true
+    },
+    {
+      "name": "登出結束展示登入",
+      "passed": true
+    },
+    {
+      "name": "AI模型建構設計.html 1512px無溢出",
+      "passed": true
+    },
+    {
+      "name": "AI模型建構設計.html顯示新版",
+      "passed": true
+    },
+    {
+      "name": "AI模型建構設計.html 390px無溢出",
+      "passed": true
+    },
+    {
+      "name": "AI模型建構設計.html顯示新版",
+      "passed": true
+    },
+    {
+      "name": "版本與交付說明.html 1512px無溢出",
+      "passed": true
+    },
+    {
+      "name": "版本與交付說明.html顯示新版",
+      "passed": true
+    },
+    {
+      "name": "版本與交付說明.html 390px無溢出",
+      "passed": true
+    },
+    {
+      "name": "版本與交付說明.html顯示新版",
+      "passed": true
+    },
+    {
+      "name": "驗證紀錄.html 1512px無溢出",
+      "passed": true
+    },
+    {
+      "name": "驗證紀錄.html顯示新版",
+      "passed": true
+    },
+    {
+      "name": "驗證紀錄.html 390px無溢出",
+      "passed": true
+    },
+    {
+      "name": "驗證紀錄.html顯示新版",
+      "passed": true
+    },
+    {
+      "name": "無JavaScript執行錯誤",
+      "passed": true
+    },
+    {
+      "name": "重試達3次轉FAILED與dead_letter",
+      "passed": true
+    },
+    {
+      "name": "持續503不產生正常結果",
+      "passed": true
+    },
+    {
+      "name": "含失敗及取消仍顯示錯誤完成",
+      "passed": true
+    },
+    {
+      "name": "任務失敗後手機頁面無水平溢出",
+      "passed": true
+    },
+    {
+      "name": "非DEMO證據無法提報真值",
+      "passed": true
+    },
+    {
+      "name": "手機表格在容器中捲動，避免欄位過度壓縮",
+      "passed": true
+    },
+    {
+      "name": "補充測試沒有JavaScript錯誤",
       "passed": true
     }
   ],

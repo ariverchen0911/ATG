@@ -1,4 +1,4 @@
-﻿# 116 ATG POC V1.0.1 / 2026-10-01
+# 116 ATG POC V1.1.0 / 2026-10-04
 $ErrorActionPreference = 'Stop'
 $pocRoot = $PSScriptRoot
 $pocPort = 8816
